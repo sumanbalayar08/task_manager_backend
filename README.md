@@ -65,7 +65,7 @@ FRONTEND_URL=http://localhost:5173
 
 # JWT Secret
 JWT_SECRET=your-super-secret-jwt-key
-JWT_EXPIRES_IN=7d
+JWT_EXPIRES_IN=10m
 ```
 
 ### 4. Database setup
